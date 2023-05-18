@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Materna"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering using AI."
+  title : "Advancement is Omega"
+  content : "Solving the problems of today to see a tomorrow worth living using AI."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
@@ -16,7 +16,7 @@ mission:
   section : "MISSION"
   content : "Introducing the world’s first Advancement Company. As we enter the dawn of the digital age a significant leap must be made to propel the world into the age of advancement."
   video_thumb: "images/video-thumb.jpg"
-  video_id: "ResipmZmpDU"
+  video_id: "EjAmJyhl8bE"
 
 
 #################### Vission #####################
