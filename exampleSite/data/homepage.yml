@@ -1,8 +1,8 @@
 #################### Banner #####################
 banner:
   enable : true
-  title : "Advancement is Omega"
-  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering."
+  title : "Advancement is Materna"
+  content : "Solving the problems of today to see a tomorrow worth living and a past worth remembering using AI."
   image : "images/hero-image/hero-slider-01.jpg"
   button:
     enable : true
@@ -26,15 +26,15 @@ vision:
   vision_item:
   - title : "People First"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Jacek Materna Founder"
     
   - title : "Employee Culture"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Jacek Materna Founder"
     
   - title : "The Omega Way"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    content : "I started with a vision of creating an atmosphere where people come first. <br>Jacek Materna Founder"
 
 
 #################### product ####################
@@ -46,17 +46,17 @@ product:
   product_item:
   - title : "Ecosystem"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionary software can become the center of your business."
     project_url : "#"
     
   - title : "Objects"
     image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionary software can become the center of your business."
     project_url : "#"
     
   - title : "Publisher"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionary software can become the center of your business."
     project_url : "#"
 
 
