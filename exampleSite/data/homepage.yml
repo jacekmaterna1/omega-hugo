@@ -26,15 +26,15 @@ vision:
   vision_item:
   - title : "People First"
     image : "images/vision/vision-01.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Jacek Materna Founder"
+    content : "I started with a vision of creating an atmosphere where people and AI work together to deliver unsurmountable results. <br>Jacek Materna Founder"
     
   - title : "Employee Culture"
     image : "images/vision/vision-02.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Jacek Materna Founder"
+    content : "I started with a vision of discourse and health debate. We all can't agree but then we execute. <br>Jacek Materna Founder"
     
   - title : "The Omega Way"
     image : "images/vision/vision-03.jpg"
-    content : "I started with a vision of creating an atmosphere where people come first. <br>Jacek Materna Founder"
+    content : "I started with a vision of exceptionally bold ideas that seem impossible to solve. <br>Jacek Materna Founder"
 
 
 #################### product ####################
@@ -51,12 +51,12 @@ product:
     
   - title : "Objects"
     image : "images/product/product-02.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionary software can become the center of your business."
+    content : "Omega AI Version 2.0 is the world’s first and only AI operating system. See how this revolutionary AI can become the center of your business."
     project_url : "#"
     
   - title : "Publisher"
     image : "images/product/product-03.jpg"
-    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionary software can become the center of your business."
+    content : "Omega FinOps Version 2.0 is the world’s first and only FinOps operating system. See how this revolutionary FP&A software can become the center of your business."
     project_url : "#"
 
 
